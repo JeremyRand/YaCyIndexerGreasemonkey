@@ -1,7 +1,7 @@
 YaCyIndexerGreasemonkey
 =======================
 
-This is a Greasemonkey script to index visited websites with the [YaCy P2P search engine](http://yacy.net/).  It has the advantage over YaCy's proxy server that it can index pages with cookies, pages which use HTTPS encryption, and (in many case) pages with query strings, without leaking private data.  It can also crawl visited pages with a depth other than 0 (something YaCy's proxy does not support).
+This is a Greasemonkey script to index visited websites with the [YaCy P2P search engine](http://yacy.net/).  It has the advantage over YaCy's proxy server that it can index pages with cookies, pages which use HTTPS encryption, and (in many cases) pages with query strings, without leaking private data.  It can also crawl visited pages with a depth other than 0 (something YaCy's proxy does not support).
 
 Installation (Basic)
 --------------------
